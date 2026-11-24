@@ -2,9 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/1453741027.svg)](https://doi.org/10.5281/zenodo.24131237)
 
-Code and data for **"Sovereign LLM-Augmented MLOps for Smart Cities: Can Locally Run Open-Weight Models
-Generate Executable CI/CD Pipelines for Air-Quality Monitoring?"** (I. Essadeq, S. Nouh, K. Kandali),
-submitted to ICISTA 2027.
+Code and data of the **air-quality series** (I. Essadeq, S. Nouh, K. Kandali) of a study in preparation
+on the generation and repair of MLOps pipelines by locally run open-weight models in three smart-city tasks.
 
 Four open-weight models, served locally by [Ollama](https://ollama.com) on a laptop without a GPU
 (Intel Core i7-8665U, 16 GB RAM), generate the same MLOps artifact: a Python module `pipeline.py`

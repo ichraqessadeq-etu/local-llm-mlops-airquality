@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite it as below."
-title: "Sovereign LLM-Augmented MLOps for Smart Cities: Can Locally Run Open-Weight Models Generate Executable CI/CD Pipelines for Air-Quality Monitoring? (code and data)"
+title: "Locally Run Open-Weight LLMs for Smart-City MLOps Pipelines: Air-Quality Series (code and data)"
 authors:
   - family-names: Essadeq
     given-names: Ichraq
@@ -16,7 +16,7 @@ authors:
     affiliation: "LTIM, TCA Team, Faculty of Sciences Ben M'Sick, Hassan II University of Casablanca"
 license: MIT
 doi: 10.5281/zenodo.24131237
-repository-code: "https://github.com/ichraqessadeq-etu/icista-local-llm-mlops-airquality"
+repository-code: "https://github.com/ichraqessadeq-etu/local-llm-mlops-airquality"
 date-released: 2026-11-11
 keywords:
   - MLOps
